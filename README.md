@@ -1,7 +1,4 @@
-# Hi there 👋
-
-
-## Here are some ideas to get you started:
+# Hi there 👋 I'm a QA Engineer
 
 ### - 🔭 I’m currently working as a QA Engineer
 ### - 💬 Ask me about handsome !!!
