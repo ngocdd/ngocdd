@@ -91,7 +91,7 @@ export const heroData: Hero = {
   ),
   actions: [
     {
-      href: "https://github.com/ngocdd/ngocdd/blob/839e9014fdbb3146c5da7f26d53a1baba1a1d017/assets/ngocdd_vc.pdf",
+      href: "https://github.com/ngocdd/ngocdd/blob/2880f6bc5de59f539bf4a6c3be701af9576f0e2a/assets/ngocdd_cv.pdf",
       text: "Resume",
       primary: true,
       Icon: ArrowDownTrayIcon,
