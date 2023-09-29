@@ -42,7 +42,7 @@ import {
  */
 export const homePageMeta: HomepageMeta = {
   title: "Đặng Đình Ngọc - QA Engineer",
-  description: "This my profile",
+  description: "This ngocdd profile",
 };
 
 /**
