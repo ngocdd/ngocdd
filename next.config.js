@@ -25,11 +25,21 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   trailingSlash: false,
+  // images: {
+  //   domains: [
+  //     "images.unsplash.com",
+  //     "source.unsplash.com",
+  //     "ngocdd.qablogs.io.vn",
+  //   ],
+  // },
   images: {
-    domains: [
-      "images.unsplash.com",
-      "source.unsplash.com",
-      "ngocdd.qablogs.io.vn",
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "**",
+        port: "",
+        pathname: "**",
+      },
     ],
   },
 };
