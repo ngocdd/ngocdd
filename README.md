@@ -4,7 +4,8 @@
 ### - 💬 Ask me anything !!!
 ### - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ngocdd94/)
 ### - Blog: [My Blog](https://dangngocblogs.wordpress.com/)
-##  - Website: [My practice web :D](https://qablogs.io.vn/)
+###  - Website: [My Website](https://qablogs.io.vn/)
+###  - Portfolio: [My Portfolio](https://ngocdd.qablogs.io.vn/)
 ### - 😄 Pronouns: Oliver
-## - ⚡ Fun fact: hmmm
+## - ⚡ Fun fact: handsome !!!
 ![](https://komarev.com/ghpvc/?username=ngocdd&color=green)
