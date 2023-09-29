@@ -304,12 +304,20 @@ export const experience: TimelineItem[] = [
     title: "QUALITY ASSISTANCE",
     content: (
       <p>
-        Additionally, I conducted exploratory and regression testing for the
-        products, and I reviewed automation test scripts created by developers,
-        leveraging tools like Playwright and TypeScript. My role also involved
-        meticulous bug tracking and verification. Furthermore, I managed a
-        dedicated QA team comprising three members, ensuring seamless project
-        execution and product excellence.
+        In the Manabie project, I was responsible for the review of function
+        specifications, technical specs, and customer requirements, ensuring a
+        clear understanding of project objectives. My role involved the creation
+        of comprehensive test strategies, plans, and test cases to effectively
+        validate and assure the quality of new features. I collaborated closely
+        with the development team, providing support in testing efforts and
+        working towards the continuous improvement of the testing process. I
+        conducted exploratory testing, regression testing, and meticulously
+        reviewed automation test scripts developed using Playwright and
+        TypeScript. Additionally, I played a crucial role in tracking,
+        verifying, and addressing reported bugs. Managing a small but dedicated
+        QA team of three members, I contributed to the project's success by
+        maintaining rigorous quality standards throughout the development
+        lifecycle.
       </p>
     ),
   },
