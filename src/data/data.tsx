@@ -66,13 +66,13 @@ export type SectionId = (typeof SectionId)[keyof typeof SectionId];
  */
 export const heroData: Hero = {
   imageSrc: heroImage,
-  name: `I'm Oliver`,
+  name: ` Hi there, I'm Oliver`,
   description: (
     <>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
         <strong className="text-stone-100">
-          Hi there, I'm a Vietnamese based Full Stack QA Engineer, my full name
-          is ĐẶNG ĐÌNH NGỌC
+          I'm a Vietnamese based Full Stack QA Engineer, my full name is ĐẶNG
+          ĐÌNH NGỌC
         </strong>
       </p>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
