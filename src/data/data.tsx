@@ -155,7 +155,7 @@ export const skills: SkillGroup[] = [
     ],
   },
   {
-    name: "Tech Stacks",
+    name: "Programming languages",
     skills: [
       {
         name: "JS/TS",
