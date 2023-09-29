@@ -22,7 +22,6 @@ import porfolioImage8 from "../images/portfolio/portfolio-8.jpg";
 import porfolioImage9 from "../images/portfolio/portfolio-9.jpg";
 import porfolioImage10 from "../images/portfolio/portfolio-10.jpg";
 import porfolioImage11 from "../images/portfolio/portfolio-11.jpg";
-import steveJobImage1 from "../images/avatar-series-steve-jobs.jpg";
 import profilepic from "../images/profilepic.jpg";
 import testimonialImage from "../images/testimonial.webp";
 import {
@@ -92,7 +91,7 @@ export const heroData: Hero = {
   ),
   actions: [
     {
-      href: "/assets/ngocdd_vc.pdf",
+      href: "https://github.com/ngocdd/ngocdd/blob/839e9014fdbb3146c5da7f26d53a1baba1a1d017/assets/ngocdd_vc.pdf",
       text: "Resume",
       primary: true,
       Icon: ArrowDownTrayIcon,
