@@ -77,15 +77,15 @@ export const heroData: Hero = {
       </p>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
         Currently working as a QA Enginner with a passion for ensuring the
-        quality and reliability of software products. With 6 of experience in
-        the field, I excel in creating comprehensive test strategies, executing
-        test plans, and identifying and reporting defects. I am skilled in both
-        manual and automated testing methodologies, leveraging industry-standard
-        tools and frameworks. My strong analytical mindset and attention to
-        detail allow me to deliver high-quality software by detecting issues
-        early in the development process. I am a collaborative team player who
-        thrives in fast-paced environments and is committed to delivering
-        top-notch, user-friendly software solutions."
+        quality and reliability of software products. With 6 years of experience
+        in the field, I excel in creating comprehensive test strategies,
+        executing test plans, and identifying and reporting defects. I am
+        skilled in both manual and automated testing methodologies, leveraging
+        industry-standard tools and frameworks. My strong analytical mindset and
+        attention to detail allow me to deliver high-quality software by
+        detecting issues early in the development process. I am a collaborative
+        team player who thrives in fast-paced environments and is committed to
+        delivering top-notch, user-friendly software solutions."
       </p>
     </>
   ),
