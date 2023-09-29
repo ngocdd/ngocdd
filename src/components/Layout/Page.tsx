@@ -11,7 +11,7 @@ const Page: NextPage<PropsWithChildren<HomepageMeta>> = memo(
         <Head>
           <title>{title}</title>
           <meta content={description} name="description" />
-          <link rel="shortcut icon" href="/static/favicon.ico" />
+          {/* <link rel="shortcut icon" href="/static/favicon.ico" /> */}
         </Head>
         {children}
       </>
