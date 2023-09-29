@@ -71,12 +71,12 @@ export const heroData: Hero = {
     <>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
         <strong className="text-stone-100">
-          I'm a Vietnamese based Full Stack QA Engineer, my full name is ĐẶNG
-          ĐÌNH NGỌC
+          Hi there, I'm a Vietnamese based Full Stack QA Engineer, my full name
+          is ĐẶNG ĐÌNH NGỌC
         </strong>
       </p>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        Currently working as a QA Enginner . with a passion for ensuring the
+        Currently working as a QA Enginner with a passion for ensuring the
         quality and reliability of software products. With 6 of experience in
         the field, I excel in creating comprehensive test strategies, executing
         test plans, and identifying and reporting defects. I am skilled in both
