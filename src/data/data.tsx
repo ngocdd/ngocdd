@@ -91,7 +91,7 @@ export const heroData: Hero = {
   ),
   actions: [
     {
-      href: "https://github.com/ngocdd/ngocdd/blob/2880f6bc5de59f539bf4a6c3be701af9576f0e2a/assets/ngocdd_cv.pdf",
+      href: "#",
       text: "Get met CV",
       primary: true,
       Icon: ArrowDownTrayIcon,
