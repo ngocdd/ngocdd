@@ -1,0 +1,29 @@
+name: Auto Deploy
+on: [push]
+jobs:
+  build:
+    name: Auto Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: depoy nextjs via remote ssh
+        uses: appleboy/ssh-action@v1.0.0
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          password: ${{ secrets.PASSWORD }}
+          script: |
+            export NVM_DIR=~/.nvm
+            source ~/.nvm/nvm.sh
+            cd ngocdd
+            echo "---------------- update latest source code ------------------"
+            git reset --hard HEAD
+            git pull
+            echo "---------------- update latest libraries ------------------"
+            npm install
+            echo "---------------- start build ------------------"
+            BUILD_DIR=temp npm run build
+            echo "---------------- start deployment ------------------"
+            rm -rf .next
+            mv temp .next
+            pm2 restart 'ngocdd'
+            echo "---------------- deploy finished ------------------"

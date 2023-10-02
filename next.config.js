@@ -25,6 +25,7 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   trailingSlash: false,
+  distDir: process.env.BUILD_DIR || ".next",
   // images: {
   //   domains: [
   //     "images.unsplash.com",
