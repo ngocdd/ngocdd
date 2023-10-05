@@ -85,17 +85,17 @@ export const heroData: Hero = {
         attention to detail allow me to deliver high-quality software by
         detecting issues early in the development process. I am a collaborative
         team player who thrives in fast-paced environments and is committed to
-        delivering top-notch, user-friendly software solutions."
+        delivering top-notch, user-friendly software solutions.
       </p>
     </>
   ),
   actions: [
-    {
-      href: "#",
-      text: "Get met CV",
-      primary: true,
-      Icon: ArrowDownTrayIcon,
-    },
+    // {
+    //   href: "#",
+    //   text: "Get met CV",
+    //   primary: true,
+    //   Icon: ArrowDownTrayIcon,
+    // },
     {
       href: `#${SectionId.Contact}`,
       text: "Contact",
