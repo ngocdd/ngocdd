@@ -168,7 +168,7 @@ export const skills: SkillGroup[] = [
     ],
   },
   {
-    name: "Framework",
+    name: "Automation Framework",
     skills: [
       {
         name: "Playwright",
