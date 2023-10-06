@@ -11,7 +11,8 @@ import {
 import GithubIcon from "../components/Icon/GithubIcon";
 import LinkedInIcon from "../components/Icon/LinkedInIcon";
 import heroImage from "../images/header-background.webp";
-import porfolioImage1 from "../images/portfolio/portfolio-1.jpg";
+
+// import porfolioImage1 from "../images/portfolio/portfolio-1.jpg";
 import porfolioImage2 from "../images/portfolio/portfolio-2.jpg";
 import porfolioImage3 from "../images/portfolio/portfolio-3.jpg";
 import porfolioImage4 from "../images/portfolio/portfolio-4.jpg";
@@ -211,7 +212,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: "Playwright TS",
     description: "PLaywight TS",
     url: "https://github.com/ngocdd/playwright-ts",
-    image: porfolioImage1,
+    image: testimonialImage,
   },
   {
     title: "Behave Python",
