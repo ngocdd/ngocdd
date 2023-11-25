@@ -8,10 +8,9 @@ import {
   SparklesIcon,
 } from "@heroicons/react/24/outline";
 
-
 import GithubIcon from "../components/Icon/GithubIcon";
 import LinkedInIcon from "../components/Icon/LinkedInIcon";
-import heroImage from "../images/header-background.webp"
+import heroImage from "../images/header-background.webp";
 
 // import porfolioImage1 from "../images/portfolio/portfolio-1.jpg";
 import porfolioImage2 from "../images/portfolio/portfolio-2.jpg";
@@ -19,11 +18,11 @@ import porfolioImage3 from "../images/portfolio/portfolio-3.jpg";
 import porfolioImage4 from "../images/portfolio/portfolio-4.jpg";
 import porfolioImage5 from "../images/portfolio/portfolio-5.jpg";
 import porfolioImage6 from "../images/portfolio/portfolio-6.jpg";
-import porfolioImage7 from "../images/portfolio/portfolio-7.jpg";
-import porfolioImage8 from "../images/portfolio/portfolio-8.jpg";
-import porfolioImage9 from "../images/portfolio/portfolio-9.jpg";
-import porfolioImage10 from "../images/portfolio/portfolio-10.jpg";
-import porfolioImage11 from "../images/portfolio/portfolio-11.jpg";
+// import porfolioImage7 from "../images/portfolio/portfolio-7.jpg";
+// import porfolioImage8 from "../images/portfolio/portfolio-8.jpg";
+// import porfolioImage9 from "../images/portfolio/portfolio-9.jpg";
+// import porfolioImage10 from "../images/portfolio/portfolio-10.jpg";
+// import porfolioImage11 from "../images/portfolio/portfolio-11.jpg";
 import profilepic from "../images/profilepic.jpg";
 import testimonialImage from "../images/testimonial.webp";
 import {
@@ -228,53 +227,53 @@ export const portfolioItems: PortfolioItem[] = [
     image: porfolioImage3,
   },
   {
-    title: "",
-    description: "",
-    url: "",
+    title: "My Portfolio",
+    description: "My Portfolio",
+    url: "https://ngocdd.qablogs.io.vn/",
     image: porfolioImage4,
   },
   {
-    title: "",
-    description: "",
-    url: "",
+    title: "My Blog",
+    description: "My Blog",
+    url: "https://dangngocblogs.wordpress.com/",
     image: porfolioImage5,
   },
   {
-    title: "",
-    description: "",
-    url: "",
+    title: "My Github",
+    description: "My Github",
+    url: "https://github.com/ngocdd",
     image: porfolioImage6,
   },
-  {
-    title: "",
-    description: "",
-    url: "",
-    image: porfolioImage7,
-  },
-  {
-    title: "",
-    description: "",
-    url: "",
-    image: porfolioImage8,
-  },
-  {
-    title: "",
-    description: "",
-    url: "",
-    image: porfolioImage9,
-  },
-  {
-    title: "",
-    description: "",
-    url: "",
-    image: porfolioImage10,
-  },
-  {
-    title: "",
-    description: "",
-    url: "",
-    image: porfolioImage11,
-  },
+  // {
+  //   title: "",
+  //   description: "",
+  //   url: "",
+  //   image: porfolioImage7,
+  // },
+  // {
+  //   title: "",
+  //   description: "",
+  //   url: "",
+  //   image: porfolioImage8,
+  // },
+  // {
+  //   title: "",
+  //   description: "",
+  //   url: "",
+  //   image: porfolioImage9,
+  // },
+  // {
+  //   title: "",
+  //   description: "",
+  //   url: "",
+  //   image: porfolioImage10,
+  // },
+  // {
+  //   title: "",
+  //   description: "",
+  //   url: "",
+  //   image: porfolioImage11,
+  // },
 ];
 
 /**

@@ -31,7 +31,7 @@ const Portfolio: FC = memo(() => {
               <div className="pb-6" key={`${title}-${index}`}>
                 <div
                   className={classNames(
-                    "relative h-max w-full overflow-hidden rounded-lg shadow-lg shadow-black/30 lg:shadow-xl"
+                    "relative h-max w-full overflow-hidden rounded-lg shadow-lg shadow-black/30 lg:shadow-xl",
                   )}
                 >
                   <Image
@@ -75,7 +75,7 @@ const ItemOverlay: FC<{ item: PortfolioItem }> = memo(
           setShowOverlay(!showOverlay);
         }
       },
-      [mobile, showOverlay]
+      [mobile, showOverlay],
     );
 
     return (
@@ -83,7 +83,7 @@ const ItemOverlay: FC<{ item: PortfolioItem }> = memo(
         className={classNames(
           "absolute inset-0 h-full w-full  bg-gray-900 transition-all duration-300",
           { "opacity-0 hover:opacity-80": !mobile },
-          showOverlay ? "opacity-80" : "opacity-0"
+          showOverlay ? "opacity-80" : "opacity-0",
         )}
         href={url}
         onClick={handleItemClick}
@@ -103,5 +103,5 @@ const ItemOverlay: FC<{ item: PortfolioItem }> = memo(
         </div>
       </a>
     );
-  }
+  },
 );

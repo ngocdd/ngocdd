@@ -16,7 +16,7 @@ const Page: NextPage<PropsWithChildren<HomepageMeta>> = memo(
         {children}
       </>
     );
-  }
+  },
 );
 
 Page.displayName = "Page";
