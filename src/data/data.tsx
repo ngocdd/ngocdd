@@ -8,9 +8,10 @@ import {
   SparklesIcon,
 } from "@heroicons/react/24/outline";
 
+
 import GithubIcon from "../components/Icon/GithubIcon";
 import LinkedInIcon from "../components/Icon/LinkedInIcon";
-import heroImage from "../images/header-background.webp";
+import heroImage from "../images/header-background.webp"
 
 // import porfolioImage1 from "../images/portfolio/portfolio-1.jpg";
 import porfolioImage2 from "../images/portfolio/portfolio-2.jpg";
@@ -77,7 +78,7 @@ export const heroData: Hero = {
         </strong>
       </p>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        Currently working as a QA Enginner with a passion for ensuring the
+        Currently working as a QA Engineer with a passion for ensuring the
         quality and reliability of software products. With 6 years of experience
         in the field, I excel in creating comprehensive test strategies,
         executing test plans, and identifying and reporting defects. I am
@@ -210,7 +211,7 @@ export const skills: SkillGroup[] = [
 export const portfolioItems: PortfolioItem[] = [
   {
     title: "Playwright TS",
-    description: "PLaywight TS",
+    description: "PLaywright TS",
     url: "https://github.com/ngocdd/playwright-ts",
     image: testimonialImage,
   },
