@@ -7,5 +7,5 @@
 ###  - Website: [My Website](https://qablogs.io.vn/)
 ###  - Portfolio: [My Portfolio](https://ngocdd.qablogs.io.vn/)
 ### - 😄 Pronouns: Oliver
-## - ⚡ Fun fact: handsome !!!
+## - [⚡ My QA Roadmap](https://roadmap.sh/qa?s=65a7e84b8240aa21a4ae9f03)
 ![](https://komarev.com/ghpvc/?username=ngocdd&color=green)
