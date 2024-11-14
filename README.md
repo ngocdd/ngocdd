@@ -2,7 +2,7 @@
 
 ### - 🔭 I’m currently working as a QA Engineer
 ### - 💬 Ask me anything !!!
-### - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ngocdd94/)
+### - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ngocdd/)
 ### - Blog: [My Blog](https://dangngocblogs.wordpress.com/)
 ###  - Website: [My Website](https://ngocdd.io.vn/)
 ### - 😄 Pronouns: Oliver
